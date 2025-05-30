@@ -21,8 +21,9 @@ An intelligent code analysis tool that uses AI to help you understand, explore, 
 
 ### Installation
 
-1. **Use the code files  shared**
+1. **Clone the repository**
    ```bash
+   https://github.com/Prathyusha-Project/assignment_AI_Codeagent.git
    cd codebase
    ```
 
